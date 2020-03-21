@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-basic-list/static/css/main.c648102d.chunk.css",
-    "main.js": "/React-basic-list/static/js/main.4d3859c9.chunk.js",
-    "main.js.map": "/React-basic-list/static/js/main.4d3859c9.chunk.js.map",
-    "runtime-main.js": "/React-basic-list/static/js/runtime-main.feb5132b.js",
-    "runtime-main.js.map": "/React-basic-list/static/js/runtime-main.feb5132b.js.map",
-    "static/js/2.b1289e4c.chunk.js": "/React-basic-list/static/js/2.b1289e4c.chunk.js",
-    "static/js/2.b1289e4c.chunk.js.map": "/React-basic-list/static/js/2.b1289e4c.chunk.js.map",
-    "index.html": "/React-basic-list/index.html",
-    "precache-manifest.cf5a23cade78301760d6fd1abda337d0.js": "/React-basic-list/precache-manifest.cf5a23cade78301760d6fd1abda337d0.js",
-    "service-worker.js": "/React-basic-list/service-worker.js",
-    "static/css/main.c648102d.chunk.css.map": "/React-basic-list/static/css/main.c648102d.chunk.css.map",
-    "static/js/2.b1289e4c.chunk.js.LICENSE.txt": "/React-basic-list/static/js/2.b1289e4c.chunk.js.LICENSE.txt"
+    "main.css": "/React-Basic-List/static/css/main.c648102d.chunk.css",
+    "main.js": "/React-Basic-List/static/js/main.f1ad91d9.chunk.js",
+    "main.js.map": "/React-Basic-List/static/js/main.f1ad91d9.chunk.js.map",
+    "runtime-main.js": "/React-Basic-List/static/js/runtime-main.988b3cc2.js",
+    "runtime-main.js.map": "/React-Basic-List/static/js/runtime-main.988b3cc2.js.map",
+    "static/js/2.b1289e4c.chunk.js": "/React-Basic-List/static/js/2.b1289e4c.chunk.js",
+    "static/js/2.b1289e4c.chunk.js.map": "/React-Basic-List/static/js/2.b1289e4c.chunk.js.map",
+    "index.html": "/React-Basic-List/index.html",
+    "precache-manifest.dead8ffed1bf1f31b6a8e9829f4a7918.js": "/React-Basic-List/precache-manifest.dead8ffed1bf1f31b6a8e9829f4a7918.js",
+    "service-worker.js": "/React-Basic-List/service-worker.js",
+    "static/css/main.c648102d.chunk.css.map": "/React-Basic-List/static/css/main.c648102d.chunk.css.map",
+    "static/js/2.b1289e4c.chunk.js.LICENSE.txt": "/React-Basic-List/static/js/2.b1289e4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.feb5132b.js",
+    "static/js/runtime-main.988b3cc2.js",
     "static/js/2.b1289e4c.chunk.js",
     "static/css/main.c648102d.chunk.css",
-    "static/js/main.4d3859c9.chunk.js"
+    "static/js/main.f1ad91d9.chunk.js"
   ]
 }
